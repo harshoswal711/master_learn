@@ -5,7 +5,7 @@ void main() {
   runApp(MyApp());
 }
 
-class MyApp extends StatelessWidget {
+class MyApp extends StatelessWidget {rn
 
   final bagcolor = const Color(0xFF192A56);
 
