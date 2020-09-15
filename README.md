@@ -1,8 +1,8 @@
 # master_learn
 
-** A Flutter Application Platform for providing authentic links for students for education purpose **
+**A Flutter Application Platform for providing authentic links for students for education purpose .**
 
-##Usage
+## Usage
  
 >1)Download the zip file <br>
 >2)Extract it to any location <br>
